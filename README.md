@@ -1,2 +1,2 @@
 # EICARsandboxCheck
-This project contains all the EICAR files needed to test if a web application has a Virus sandboxing mechanism.
+In a penetration test, specifically while testing an upload functionality - it is important to see if the application server prevents users from uploading malicious files especially if all files are stored (and can be downloaded by others). This project contains all the EICAR files needed to test if a web application has a Virus sandboxing mechanism. Each eicar file has been modified to bypass client & server side file-type restrictions. 
